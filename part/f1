@@ -1,0 +1,10 @@
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/sda2       10475520 4158140   6317380  40% /
+devtmpfs          916760       0    916760   0% /dev
+tmpfs             932652       0    932652   0% /dev/shm
+tmpfs             932652   10812    921840   2% /run
+tmpfs             932652       0    932652   0% /sys/fs/cgroup
+/dev/sda5        5232640   32992   5199648   1% /data
+/dev/sda1        1038336  168408    869928  17% /boot
+tmpfs             186532      32    186500   1% /run/user/0
+/dev/sr0         9176232 9176232         0 100% /run/media/root/CentOS 7 x86_64
